@@ -25,9 +25,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({
           <h3 className="text-lg font-medium text-gray-800 mb-1 truncate">
             {product.nome}
           </h3>
-          <p className="text-sm text-gray-500 mb-2 capitalize">
-            {product.categoria}
-          </p>
+
           <div className="flex items-center justify-between">
             <span className="text-lg font-bold text-pink-600">
               R$ {product.preco.toFixed(2)}

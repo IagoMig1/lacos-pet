@@ -65,11 +65,8 @@ export const Footer: React.FC = () => {
             <p className="text-gray-700 mb-2">
               <strong>WhatsApp:</strong> (47) 99292-0333
             </p>
-            <p className="text-gray-700 mb-2">
-              <strong>Email:</strong> lacos.pet.da.gabi@gmail.com
-            </p>
             <p className="text-gray-700">
-              <strong>Endereço:</strong> Joinville, SC
+              <strong>Endereço:</strong> Curitiba - PR
             </p>
           </div>
         </div>
